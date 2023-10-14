@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Arun Acharya</h1>
 
-<h3 align="center">A passionate full stack MERN developer</h3>
+<h3 align="center">A passionate Fronted Developer</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+Arun%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
 
