@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+Arun%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjeev662&label=Profile%20views&color=0e75b6&style=flat" alt="sanjeev662" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjeev662&label=Profile%20views&color=0e75b6&style=flat" alt="arun1603" /> </p>
 
 ---
 ### 👦 About Me
