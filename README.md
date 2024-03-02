@@ -12,7 +12,7 @@
 
 ---
 ### 👦 About Me
-- 🔭 I’m currently working on *a Blog-app using(MERN)*
+- 🔭 I’m currently working on *Working on Nextjs*
 
 - 👨‍💻 All of my projects are available at [https://github.com/arunacharya1603](https://github.com/arunacharya1603)
 
