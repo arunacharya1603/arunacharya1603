@@ -1,142 +1,120 @@
-![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
+<!-- Header Image -->
+![Header Image](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 
-<a href="https://mahiiverse-portfolio.000webhostapp.com/" target="_blank"></a>
-
+<!-- Introduction -->
 <h1 align="center">Hi 👋, I'm Arun Acharya</h1>
+<h3 align="center">A Passionate Frontend Developer</h3>
 
-<h3 align="center">A passionate Fronted Developer</h3>
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+Arun%2C+Welcome+to+my+Github+page." alt="Typing SVG" />
+  </a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+Arun%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sanjeev662&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjeev662&label=Profile%20views&color=0e75b6&style=flat" alt="arun1603" /> </p>
+<!-- About Me -->
+## 👦 About Me
+- 🔭 I’m currently working on **Next.js**.
+- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/arunacharya1603).
+- 📫 How to reach me: **arunacharya1603@gmail.com**.
+- 👩‍💻 Constantly learning and highly interested in **Open Source**.
+- 💫 I'm skilled in **React.js** with a solid foundation in **Data Structures and Algorithms**.
 
 ---
-### 👦 About Me
-- 🔭 I’m currently working on *Working on Nextjs*
 
-- 👨‍💻 All of my projects are available at [https://github.com/arunacharya1603](https://github.com/arunacharya1603)
-
-- 📫 How to reach me *arunacharya1603@gmail.com*
-- 👩‍💻 Constantly learning and I'm very interested in Open Source!
-
-- 💫 I'm a highly skilled web developer with expertise in <strong>React.js</strong>, combined with knowledge of <strong>Data Structures
-and Algorithms</strong>.
-
----
-
+<!-- Languages Section -->
 <h3 align="center">Languages</h3>
 <p align="center">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-   <img src="https://img.shields.io/badge/java%20programming-%2338B2AC.svg?style=for-the-badge&logo=java&logoColor=white"
-      alt="Java"/> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   </a>
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
-      alt="c"/>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   </a>
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" 
-      alt="python"/> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   </a>
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
-      alt="html5"/> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
-      alt="css3"/>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
-      alt="javascript"/> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   </a>
 </p>
 
+<!-- Frontend Section -->
 <h3 align="center">Frontend</h3>
 <p align="center">
-      <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
-      alt="bootstrap"/>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"
-      alt="Tailwind"/>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   </a>
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
-      alt="react"/> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/ReactJS-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="ReactJS" />
   </a>
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router"/> 
+  <a href="https://reactrouter.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/React_Router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />
   </a>
-  <a href="https://jquery.com/" target="_blank">
-    <img src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery"/> 
-  </a> 
- 
+  <a href="https://jquery.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
+  </a>
 </p>
 
+<!-- Backend Section -->
 <h3 align="center">Backend</h3>
 <p align="center">
-  <a href="https://nodejs.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
-      alt="nodejs"/> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   </a>
 </p>
 
+<!-- Database Section -->
 <h3 align="center">Database</h3>
 <p align="center">
-
-  <a href="" target="_blank"> 
-    <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white"
-      alt="MySQL"/> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/MySQL-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   </a>
-  <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
-      alt="mongodb"/> 
-  </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  </a>
 </p>
 
-<h3 align="center">Cloud & Hosting:</h3>
+<!-- Cloud & Hosting Section -->
+<h3 align="center">Cloud & Hosting</h3>
 <p align="center">
-
-  <a href="" target="_blank">
-    <img  src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="azure"/> 
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   </a>
-  <a href="https://netlify.com/" target="_blank">
-    <img src="https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=black" alt="firebase"/>
+  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=black" alt="Netlify" />
   </a>
-    <a href="https://github.com/arunacharya1603" target="_blank">
-    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-  </a> 
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
-----
+---
 
-<h3 align="center">Connect with me</h3>
-
-<div style="margin-top:10px" align="center">
-  <div>
-       <a href="https://github.com/arunacharya1603" target="_blank">
-    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+<!-- Connect with Me -->
+<h3 align="center">Connect with Me</h3>
+<p align="center">
+  <a href="https://github.com/arunacharya1603" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-    <a  href="https://www.linkedin.com/in/arunacharya1603/" target="_blank">
-      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
-    </a>
-    <a  href="mailto:arunacharya1603@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
-    </a>
-  </div>
-</div>
-
-<hr>
-
-
-<!-- <hr> -->
-
-<!-- <h3 align="left">Most used Languages:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjeev662&show_icons=true&locale=en&layout=compact" alt="sanjeev662" /></p> -->
-
-<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeev662&" alt="sanjeev662" /></p> -->
-    
-    
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjeev662" alt="sanjeev662" /></a> </p> -->
+  <a href="https://www.linkedin.com/in/arunacharya1603/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:arunacharya1603@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
