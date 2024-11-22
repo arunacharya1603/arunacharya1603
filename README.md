@@ -1,114 +1,157 @@
-<!-- Header Image -->
-![Header Image](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Arun Acharya - Full Stack Developer</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/animejs@3.2.1/lib/anime.min.js"></script>
+    <style>
+        body { 
+            background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+            color: #e0e0e0;
+        }
+        .skill-badge {
+            transition: all 0.3s ease;
+            transform-origin: center;
+        }
+        .skill-badge:hover {
+            transform: scale(1.1) rotate(5deg);
+            box-shadow: 0 0 15px rgba(255,255,255,0.3);
+        }
+        .gradient-text {
+            background: linear-gradient(45deg, #00f5a0, #00d9f5);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+    </style>
+</head>
+<body class="min-h-screen">
+    <div class="container mx-auto px-4 py-16 max-w-6xl">
+        <!-- Header -->
+        <header class="text-center mb-16">
+            <h1 class="text-6xl font-bold gradient-text mb-4 animate-pulse">
+                Arun Acharya
+            </h1>
+            <p class="text-3xl text-blue-200 typing-effect">
+                Full Stack Developer | Tech Innovator
+            </p>
+        </header>
 
-<!-- Introduction -->
-<h1 align="center">Hi 👋, I'm Arun Acharya</h1>
-<h3 align="center">A Passionate Frontend Developer</h3>
+        <!-- Comprehensive Skills Section -->
+        <section class="bg-gray-800 rounded-2xl p-10 shadow-2xl mb-16">
+            <h2 class="text-4xl font-semibold text-center mb-10 text-blue-300">🚀 Tech Ecosystem</h2>
+            
+            <div class="grid md:grid-cols-3 gap-8">
+                <!-- Programming Languages -->
+                <div>
+                    <h3 class="text-2xl font-bold mb-6 text-blue-200">Programming Languages</h3>
+                    <div class="flex flex-wrap gap-3">
+                        <span class="skill-badge bg-blue-900 px-4 py-2 rounded-full">Python</span>
+                        <span class="skill-badge bg-yellow-700 px-4 py-2 rounded-full">JavaScript</span>
+                        <span class="skill-badge bg-gray-700 px-4 py-2 rounded-full">TypeScript</span>
+                    </div>
+                </div>
 
-<!-- Typing SVG -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+Arun%2C+Welcome+to+my+Github+page." alt="Typing SVG" />
-  </a>
-</p>
+                <!-- Frontend Technologies -->
+                <div>
+                    <h3 class="text-2xl font-bold mb-6 text-blue-200">Frontend Stack</h3>
+                    <div class="flex flex-wrap gap-3">
+                        <span class="skill-badge bg-blue-600 px-4 py-2 rounded-full">React.js</span>
+                        <span class="skill-badge bg-teal-600 px-4 py-2 rounded-full">Next.js</span>
+                        <span class="skill-badge bg-blue-400 px-4 py-2 rounded-full">Tailwind CSS</span>
+                        <span class="skill-badge bg-purple-600 px-4 py-2 rounded-full">Redux</span>
+                        <span class="skill-badge bg-gray-700 px-4 py-2 rounded-full">HTML5</span>
+                        <span class="skill-badge bg-red-600 px-4 py-2 rounded-full">CSS3</span>
+                    </div>
+                </div>
 
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanjeev662&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+                <!-- Backend & Database -->
+                <div>
+                    <h3 class="text-2xl font-bold mb-6 text-blue-200">Backend & Database</h3>
+                    <div class="flex flex-wrap gap-3">
+                        <span class="skill-badge bg-green-600 px-4 py-2 rounded-full">Node.js</span>
+                        <span class="skill-badge bg-green-800 px-4 py-2 rounded-full">MongoDB</span>
+                        <span class="skill-badge bg-blue-900 px-4 py-2 rounded-full">MySQL</span>
+                        <span class="skill-badge bg-red-700 px-4 py-2 rounded-full">Firebase</span>
+                    </div>
+                </div>
+            </div>
 
-<!-- About Me -->
-## 👦 About Me
-- 🔭 I’m currently working on **Next.js**.
-- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/arunacharya1603).
-- 📫 How to reach me: **arunacharya1603@gmail.com**.
-- 👩‍💻 Constantly learning and highly interested in **Open Source**.
-- 💫 I'm skilled in **React.js** with a solid foundation in **Data Structures and Algorithms**.
+            <!-- Additional Tools & Technologies -->
+            <div class="mt-10">
+                <h3 class="text-2xl font-bold mb-6 text-blue-200 text-center">🛠 Additional Tools & Technologies</h3>
+                <div class="flex flex-wrap justify-center gap-4">
+                    <span class="skill-badge bg-gray-700 px-4 py-2 rounded-full">Git</span>
+                    <span class="skill-badge bg-black px-4 py-2 rounded-full">GitHub</span>
+                    <span class="skill-badge bg-blue-800 px-4 py-2 rounded-full">Vercel</span>
+                    <span class="skill-badge bg-green-700 px-4 py-2 rounded-full">Netlify</span>
+                    <span class="skill-badge bg-purple-700 px-4 py-2 rounded-full">Figma</span>
+                    <span class="skill-badge bg-blue-500 px-4 py-2 rounded-full">Bootstrap</span>
+                </div>
+            </div>
+        </section>
 
----
+        <!-- Project Showcase -->
+        <section class="bg-gray-800 rounded-2xl p-10 shadow-2xl mb-16">
+            <h2 class="text-4xl font-semibold text-center mb-10 text-blue-300">🌟 Featured Projects</h2>
+            <div class="grid md:grid-cols-2 gap-8">
+                <div class="bg-gray-700 p-6 rounded-xl hover:bg-gray-600 transition-all">
+                    <h3 class="text-2xl font-bold mb-4 text-blue-300">ThinkBridge Blog App</h3>
+                    <p>Full-stack blog application with ReactJS, AppWrite, Redux</p>
+                    <div class="mt-4 flex space-x-3">
+                        <span class="bg-blue-600 text-white px-3 py-1 rounded-full">React</span>
+                        <span class="bg-purple-600 text-white px-3 py-1 rounded-full">Redux</span>
+                    </div>
+                </div>
+                <div class="bg-gray-700 p-6 rounded-xl hover:bg-gray-600 transition-all">
+                    <h3 class="text-2xl font-bold mb-4 text-blue-300">Food Booking Platform</h3>
+                    <p>Dynamic food booking web app with advanced state management</p>
+                    <div class="mt-4 flex space-x-3">
+                        <span class="bg-green-600 text-white px-3 py-1 rounded-full">Redux Toolkit</span>
+                        <span class="bg-blue-600 text-white px-3 py-1 rounded-full">React</span>
+                    </div>
+                </div>
+            </div>
+        </section>
 
-<!-- Languages Section -->
-<h3 align="center">Languages</h3>
-<p align="center">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  </a>
-</p>
+        <!-- Contact & Social Links -->
+        <footer class="text-center">
+            <div class="flex justify-center space-x-8 mb-8">
+                <a href="https://github.com/arunacharya1603" class="text-blue-300 hover:text-blue-100 text-2xl">
+                    GitHub
+                </a>
+                <a href="https://www.linkedin.com/in/arunacharya1603/" class="text-blue-300 hover:text-blue-100 text-2xl">
+                    LinkedIn
+                </a>
+                <a href="mailto:arunacharya1603@gmail.com" class="text-blue-300 hover:text-blue-100 text-2xl">
+                    Contact
+                </a>
+            </div>
+            <p class="text-gray-400 text-lg">Transforming ideas into digital solutions 💡</p>
+        </footer>
+    </div>
 
-<!-- Frontend Section -->
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/ReactJS-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="ReactJS" />
-  </a>
-  <a href="https://reactrouter.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/React_Router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />
-  </a>
-  <a href="https://jquery.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
-  </a>
-</p>
-
-<!-- Backend Section -->
-<h3 align="center">Backend</h3>
-<p align="center">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  </a>
-</p>
-
-<!-- Database Section -->
-<h3 align="center">Database</h3>
-<p align="center">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/MySQL-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  </a>
-</p>
-
-<!-- Cloud & Hosting Section -->
-<h3 align="center">Cloud & Hosting</h3>
-<p align="center">
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  </a>
-  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=black" alt="Netlify" />
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
-
-<!-- Connect with Me -->
-<h3 align="center">Connect with Me</h3>
-<p align="center">
-  <a href="https://github.com/arunacharya1603" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/arunacharya1603/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:arunacharya1603@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+    <script>
+        // Typing effect
+        const typingEffect = document.querySelector('.typing-effect');
+        typingEffect.innerHTML = typingEffect.textContent.replace(/\S/g, "<span class='inline-block'>$&</span>");
+        
+        anime.timeline({loop: true})
+            .add({
+                targets: '.typing-effect span',
+                scale: [0, 1],
+                opacity: [0, 1],
+                translateZ: 0,
+                easing: "easeOutExpo",
+                duration: 950,
+                delay: (el, i) => 70*i
+            }).add({
+                targets: '.typing-effect span',
+                opacity: 0,
+                duration: 1000,
+                easing: "easeOutExpo",
+                delay: 1100
+            });
+    </script>
+</body>
+</html>
