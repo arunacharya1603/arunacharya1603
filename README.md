@@ -19,7 +19,7 @@
 
 <!-- About Me -->
 ## 👦 About Me
-- 🔭 I’m currently working on **Next.js** and **React Native**.
+- 🔭 I’m currently working on **Next.js** and **TanStank**.
 - 🌱 I’m exploring **GraphQL** and **TypeScript**.
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/arunacharya1603).
 - 📫 How to reach me: **arunacharya1603@gmail.com**.
